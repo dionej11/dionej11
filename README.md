@@ -1,8 +1,8 @@
 # Hi, I'm Daniela 👩🏾‍💻👋
-On the internet I'm @dionej11 but everyone calls me Dani, you can do it too 😊 and I'm a web developer from Colombia!
-- 👀 I'm interested in discovering new people who love the tech world like me and of course learning more and more about it.
+On internet I'm @dionej11 but everyone calls me Dani, you can do it too 😊 I'm a web developer from Colombia!
+- 👀 I am interested in meeting new people who love technology as much as I do and of course to learn more and more.
 - 🌱 I'm currently learning and practicing the main web technologies, their frameworks and other tools to program apps and websites.
-- 💞️ I'm looking to collaborate in challenges, magical projects and help people who want to change the world. check out my social networks, contact me and let's change the world together!
+- 💞️ I'm looking to collaborate in challenges, magical projects and help people who want to change the world. Check out my social networks, contact me and let's change the world together!
 ## Contact me
 <p>
   <a href="https://twitter.com/dionej11"> <img src="https://shields.io/badge/twitter-white?logo=twitter&style=for-the-badge" /> </a> 
